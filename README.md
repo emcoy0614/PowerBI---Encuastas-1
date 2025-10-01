@@ -1,2 +1,2 @@
-# PowerBI---Encuastas-1
+# PowerBI---Encuestas-1
 Dashboard de Encuestas
